@@ -1,0 +1,23 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "type": "shell",
+      "label": "g++ build active file",
+      "command": "/usr/bin/g++",
+      "args": ["-g",
+              "${fileDirname}/routePlanner.cpp", "${fileDirname}/routePlannerSimulatedAnnealing.cpp",
+              "${fileDirname}/traveler.cpp","${fileDirname}/city.cpp",
+              "${fileDirname}/geneticAlgorithm.cpp","${fileDirname}/geneticPopulation.cpp",
+              "${fileDirname}/main.cpp", "-o", "${fileDirname}/main"],
+      "options": {
+        "cwd": "/usr/bin"
+      },
+      "problemMatcher": ["$gcc"],
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      }
+    }
+  ]
+}

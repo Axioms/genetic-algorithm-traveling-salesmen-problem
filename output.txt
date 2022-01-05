@@ -1,0 +1,302 @@
+testing The Traveling sales man problem 10 times with the same 10 cities
+starting distance is: 1075
+-----------------------------------------------------------------
+
+Final route distance is: 755
+genetic algorithm took 564μs for run #1
+
+Final route distance is: 877
+simulated annealing took 69484μs for run #1
+
+
+Final route distance is: 729
+genetic algorithm took 585μs for run #2
+
+Final route distance is: 877
+simulated annealing took 62403μs for run #2
+
+
+Final route distance is: 764
+genetic algorithm took 573μs for run #3
+
+Final route distance is: 877
+simulated annealing took 62352μs for run #3
+
+
+Final route distance is: 693
+genetic algorithm took 597μs for run #4
+
+Final route distance is: 877
+simulated annealing took 62708μs for run #4
+
+
+Final route distance is: 757
+genetic algorithm took 578μs for run #5
+
+Final route distance is: 877
+simulated annealing took 62394μs for run #5
+
+
+Final route distance is: 723
+genetic algorithm took 579μs for run #6
+
+Final route distance is: 877
+simulated annealing took 62400μs for run #6
+
+
+Final route distance is: 671
+genetic algorithm took 580μs for run #7
+
+Final route distance is: 877
+simulated annealing took 64643μs for run #7
+
+
+Final route distance is: 730
+genetic algorithm took 618μs for run #8
+
+Final route distance is: 877
+simulated annealing took 63535μs for run #8
+
+
+Final route distance is: 789
+genetic algorithm took 583μs for run #9
+
+Final route distance is: 877
+simulated annealing took 62459μs for run #9
+
+
+Final route distance is: 663
+genetic algorithm took 563μs for run #10
+
+Final route distance is: 877
+simulated annealing took 62495μs for run #10
+
+
+testing The Traveling sales man problem 10 times with the same 100 cities
+starting distance is: 10576
+-----------------------------------------------------------------
+starting test
+genetic algorithm has a inital population of 100 and 100 generations
+
+Final route distance is: 7420
+genetic algorithm took 1580μs for run #1
+
+Final route distance is: 10033
+simulated annealing took 368858μs for run #1
+
+
+Final route distance is: 7294
+genetic algorithm took 1599μs for run #2
+
+Final route distance is: 10033
+simulated annealing took 371271μs for run #2
+
+
+Final route distance is: 7892
+genetic algorithm took 1577μs for run #3
+
+Final route distance is: 10033
+simulated annealing took 362350μs for run #3
+
+
+Final route distance is: 8036
+genetic algorithm took 1650μs for run #4
+
+Final route distance is: 10019
+simulated annealing took 370512μs for run #4
+
+
+Final route distance is: 7782
+genetic algorithm took 1614μs for run #5
+
+Final route distance is: 10033
+simulated annealing took 358348μs for run #5
+
+
+Final route distance is: 8210
+genetic algorithm took 1531μs for run #6
+
+Final route distance is: 10033
+simulated annealing took 379164μs for run #6
+
+
+Final route distance is: 7889
+genetic algorithm took 1598μs for run #7
+
+Final route distance is: 10033
+simulated annealing took 369010μs for run #7
+
+
+Final route distance is: 7759
+genetic algorithm took 1712μs for run #8
+
+Final route distance is: 10033
+simulated annealing took 370301μs for run #8
+
+
+Final route distance is: 8423
+genetic algorithm took 1672μs for run #9
+
+Final route distance is: 10033
+simulated annealing took 364351μs for run #9
+
+
+Final route distance is: 7643
+genetic algorithm took 1576μs for run #10
+
+Final route distance is: 9910
+simulated annealing took 358197μs for run #10
+
+
+testing The Traveling sales man problem 10 times with the same 1000 cities
+starting distance is: 102061
+-----------------------------------------------------------------
+starting test
+genetic algorithm has a inital population of 100 and 100 generations
+
+Final route distance is: 94924
+genetic algorithm took 12014μs for run #1
+
+Final route distance is: 101430
+simulated annealing took 3464289μs for run #1
+
+
+Final route distance is: 96052
+genetic algorithm took 12171μs for run #2
+
+Final route distance is: 101468
+simulated annealing took 3389657μs for run #2
+
+
+Final route distance is: 98011
+genetic algorithm took 11845μs for run #3
+
+Final route distance is: 101526
+simulated annealing took 3405487μs for run #3
+
+
+Final route distance is: 96150
+genetic algorithm took 12856μs for run #4
+
+Final route distance is: 101400
+simulated annealing took 3520898μs for run #4
+
+
+Final route distance is: 94700
+genetic algorithm took 11990μs for run #5
+
+Final route distance is: 101486
+simulated annealing took 3495672μs for run #5
+
+
+Final route distance is: 94215
+genetic algorithm took 15247μs for run #6
+
+Final route distance is: 101484
+simulated annealing took 3425044μs for run #6
+
+
+Final route distance is: 96228
+genetic algorithm took 12890μs for run #7
+
+Final route distance is: 101478
+simulated annealing took 3477216μs for run #7
+
+
+Final route distance is: 96640
+genetic algorithm took 12377μs for run #8
+
+Final route distance is: 101504
+simulated annealing took 3567703μs for run #8
+
+
+Final route distance is: 94925
+genetic algorithm took 12416μs for run #9
+
+Final route distance is: 101472
+simulated annealing took 3569408μs for run #9
+
+
+Final route distance is: 93067
+genetic algorithm took 12238μs for run #10
+
+Final route distance is: 100520
+simulated annealing took 3551198μs for run #10
+
+
+testing The Traveling sales man problem 10 times with the same 10000 cities
+starting distance is: 1043750
+-----------------------------------------------------------------
+starting test
+genetic algorithm has a inital population of 100 and 100 generations
+
+Final route distance is: 1021216
+genetic algorithm took 116859μs for run #1
+
+Final route distance is: 1038946
+simulated annealing took 34847042μs for run #1
+
+
+Final route distance is: 1025286
+genetic algorithm took 142698μs for run #2
+
+Final route distance is: 1042148
+simulated annealing took 35356133μs for run #2
+
+
+Final route distance is: 1026217
+genetic algorithm took 127744μs for run #3
+
+Final route distance is: 1043067
+simulated annealing took 35812747μs for run #3
+
+
+Final route distance is: 1025423
+genetic algorithm took 117150μs for run #4
+
+Final route distance is: 1043139
+simulated annealing took 36788124μs for run #4
+
+
+Final route distance is: 1019621
+genetic algorithm took 133544μs for run #5
+
+Final route distance is: 1040466
+simulated annealing took 37826556μs for run #5
+
+
+Final route distance is: 1023717
+genetic algorithm took 131705μs for run #6
+
+Final route distance is: 1041526
+simulated annealing took 37541448μs for run #6
+
+
+Final route distance is: 1024918
+genetic algorithm took 126972μs for run #7
+
+Final route distance is: 1039282
+simulated annealing took 37176108μs for run #7
+
+
+Final route distance is: 1028567
+genetic algorithm took 125955μs for run #8
+
+Final route distance is: 1035765
+simulated annealing took 37696676μs for run #8
+
+
+Final route distance is: 1021865
+genetic algorithm took 126051μs for run #9
+
+Final route distance is: 1040726
+simulated annealing took 36079294μs for run #9
+
+
+Final route distance is: 1025537
+genetic algorithm took 120924μs for run #10
+
+Final route distance is: 1040712
+simulated annealing took 36685484μs for run #10
+
+
